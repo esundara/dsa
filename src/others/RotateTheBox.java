@@ -29,8 +29,8 @@ public class RotateTheBox {
 
         public static void printMatrix(char[][] matrix) {
                 for (char[] row : matrix) {
-                        for (char val : row) {
-                                System.out.print(val + " ");
+                        for (char value : row) {
+                                System.out.print(value + "  ");
                         }
                         System.out.println();
                 }
