@@ -6,6 +6,7 @@ package others;
  *   prime number is divisible only by 1 or itself
  *   assume 0 in the array  =  prime
  *   assume 1 in the array  =  NOT prime
+ *   0 and 1 are  Not Primes
  */
 public class CountPrimes {
 
