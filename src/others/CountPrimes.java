@@ -7,6 +7,8 @@ package others;
  *   assume 0 in the array  =  prime
  *   assume 1 in the array  =  NOT prime
  *   0 and 1 are  Not Primes
+ *   Logic - increment the numbers till squareroot of n and the mark all multiples as non primes in the set
+ *
  */
 public class CountPrimes {
 
