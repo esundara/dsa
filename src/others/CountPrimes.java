@@ -4,10 +4,10 @@ package others;
  *   Count Primes
  *   Algorithm  : with Sieve of Erastosthenes
  *   prime number is divisible only by 1 or itself
- *   assume 0 in the array  =  prime
- *   assume 1 in the array  =  NOT prime
- *   0 and 1 are  Not Primes
- *   Logic - increment the numbers till squareroot of n and the mark all multiples as non primes in the set
+ *   Build and arry with n elements, assume 0 in the array  is a prime and  assume 1 in the array  is  NOT a prime
+ *   do remember 0 and 1 are  Not Primes
+ *   Logic - increment the numbers till squareroot of n and the mark all multiples in the array
+ *   as non primes in the array
  *
  */
 public class CountPrimes {
