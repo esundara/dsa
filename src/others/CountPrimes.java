@@ -1,11 +1,12 @@
 package others;
 
 /*
- *   Count Primes
- *   Algorithm  : with Sieve of Erastosthenes
- *   prime number is divisible only by 1 or itself
- *   Build and arry with n elements, assume 0 in the array  is a prime and  assume 1 in the array  is  NOT a prime
- *   do remember 0 and 1 are  Not Primes
+ *   Count Number of Primes below a given number
+ *   A prime number is a number divisible only by 1 or itself (do remember 0 and 1 are  Not Primes)
+ *   Algorithm  : with Sieve of Erastosthenes : Logic - increment the numbers till squareroot of n
+ *   and the mark all multiples in an array corresponding to the number.. This way instread of
+ *   finding prime you discard non primes and rest would be a prime.
+ *   Build and arry with n elements, assume 0 in the array  is a prime and  assume 1 in the array  is  NOT a primes
  *   Logic - increment the numbers till squareroot of n and the mark all multiples in the array
  *   as non primes in the array
  *
