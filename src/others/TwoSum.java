@@ -1,6 +1,7 @@
 package others;
 
 /*
+*   Find index of two numbers in an array that add to target number
 *   An array of integers is given.
 *   A value called target is also given.
 *   Return the index position of numbers which add to target
