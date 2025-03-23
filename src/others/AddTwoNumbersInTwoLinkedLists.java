@@ -1,7 +1,9 @@
 package others;
 
 /*
- *
+ * Two Linked Lists are given
+ * Add corresponding numbers in the same position.
+ * If the number is more than 10, then add to the next value
  */
 public class AddTwoNumbersInTwoLinkedLists {
 
