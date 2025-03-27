@@ -1,13 +1,13 @@
 package others;
 
 /**
- * Building an ASCII Pyramid With Stars based on input number of rows
+ * Building an ASCII Pyramid With Dollars based on input number of rows
  * So for example if number of rows = 5, then print
- * $
- * $$$
- * $$$$$
- * $$$$$$$
- * $$$$$$$$$
+ *          $
+ *         $$$
+ *        $$$$$
+ *       $$$$$$$
+ *      $$$$$$$$$
  */
 public class ASCIIDollarPyramid {
 
